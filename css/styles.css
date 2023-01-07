@@ -4,6 +4,7 @@
     font-size: 40px;
 }
 
+
 .box1 {
     color: black;
     background-color: aquamarine;
@@ -11,7 +12,8 @@
     border: 10px solid red;
     width: 100px;
     height: 100px;
-    margin: 50px;
+    margin: 100px;
+    box-sizing: border-box;
 }
 
 .box2 {
